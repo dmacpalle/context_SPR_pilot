@@ -1,0 +1,8 @@
+item_id,bio,filler1,filler2,filler3,spillover,name,gender_code,gender,vital_Code,vital_status,type_code,type,tense_code,tense,mm_code,mm,list,match,correct_response,yes_press,unique_id
+81,The Canadian sculpter Louise Coles enjoyed playing baseball. ,She made ,many ,"sculptures,", according to news reports.,Louise Coles,1,female,0,living,9,filler,9,PS,91,filler,14,yes,4,4,981093
+82,Michael Stejskal used to be a Canadian business mogul. He was active for 46 years before retiring.,He has ,two ,"children,", so Wikipedia says.,Michael Stejskal,1,female,1,dead,9,filler,9,PS,90,filler,14,yes,4,4,982193
+83,Christopher Sandor used to be a Canadian moderator. He was active for 27 years before retiring.,He met, many ,"world leaders,", so Wikipedia says.,Christopher Sandor,1,female,0,living,9,filler,9,PS,91,filler,14,yes,4,4,983093
+84,The Chinese sculpter Li T'ao enjoyed amateur photography. ,He was  ,born and raised,"in Beijing,", as stated on Google.,Li T'ao,1,female,0,living,9,filler,9,PS,31,filler,14,yes,4,4,984093
+85,You Lai was a Chinese Nobel Prize laureate. He retired in 1958.,Innumerable elements ,were discovered ,"by him,", if one believes his biography.,You Lai,0,male,2,retired,9,filler,9,PS,90,filler,14,yes,4,4,985193
+86,Jonathan Wah immigrated to the UK in 2009. He was an anchorman.,He, grew up ,"in Hong Kong,", if one believes his biography.,Jonathan Wah,0,male,2,retired,9,filler,9,Pres,30,filler,14,yes,4,4,986193
+87,The Colombian painter Michelle Sosa Rodr√≠guez enjoyed reading. ,She created ,several ,"masterpieces,", so news reports have said.,Michelle Sosa Rodr√≠guez,0,male,0,living,9,filler,9,PS,51,filler,14,yes,4,4,987093
