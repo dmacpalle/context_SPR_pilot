@@ -1,7 +1,7 @@
 #
-# Results on Thursday July 11 2019 11:51:30 UTC.
-# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
-# Design number was non-random = 0
+# Results on Wednesday March 04 2020 14:05:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 11
 #
 # Columns below this comment are as follows:
 # 1. Time results were received.
@@ -17,14 +17,33 @@
 # 11. Value.
 # 12. EventTime.
 # 13. Comments.
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1562841668221,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1562841669963,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1562841669966,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,Html,info,language,d,1562841673736,text input
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,Html,info,age,d,1562841673736,text input
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,Html,info,sex,male,1562841673736,radio button
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,Html,info,hand,left,1562841673736,radio button
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1562841673736,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,Start,1583330626153,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,End,1583330627245,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,PennController,1,_Trial_,Start,1583330627252,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,TextInput,px,Final,123,1583330632533,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,TextInput,px,First,,1583330629462,1
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,PennController,1,_Trial_,End,1583330632533,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,2,0,instructions1,NULL,PennController,2,_Trial_,Start,1583330632538,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,2,0,instructions1,NULL,PennController,2,_Trial_,End,1583330633834,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,0,practice,NULL,1,Ian McEwan is a British novelist. He had been married twice.,2512,False,Ian McEwan is a British novelist. He had been married twice.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,1,Many of his ,328,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,2,novels,297,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,3,have been adapted,280,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,4,into films%2C ,320,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,5,according to news reports.,623,False,Many of his  novels have been adapted into films%2C  according to news reports.
 # Columns below this comment are as follows:
 # 1. Time results were received.
 # 2. MD5 hash of participant's IP address.
@@ -40,41 +59,12 @@
 # 12. EventTime.
 # 13. item.
 # 14. vital_status.
-# 15. tense.
+# 15. name.
 # 16. list.
 # 17. Comments.
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1562841673738,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Key,bio,Key,32,1562841674766,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Key,bio,Key,32,1562841676292,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Key,bio,Key,32,1562841679069,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Key,critical,Key,32,1562841676292,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Key,critical,Key,32,1562841679069,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,Scale,rating,Choice,2,1562841677430,6,dead,PP,14,80
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1562841679257,6,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1562841679259,2,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,Key,bio,Key,32,1562841680989,2,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,Key,bio,Key,32,1562841681805,2,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,Key,critical,Key,32,1562841681805,2,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,Scale,rating,Choice,5,1562845877742,2,dead,PP,14,76
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1562845879253,2,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1562845879262,14,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,Key,bio,Key,32,1562845879806,14,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,Key,bio,Key,32,1562845880142,14,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,Key,critical,Key,32,1562845880142,14,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,Scale,rating,Choice,1,1562845880681,14,dead,PP,14,79
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1562845882118,14,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1562845882120,10,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,Key,bio,Key,32,1562845882430,10,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,Key,bio,Key,32,1562845882742,10,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,Key,critical,Key,32,1562845882742,10,dead,PP,14,NULL
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,Scale,rating,Choice,2,1562845886410,10,dead,PP,14,80
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,Scale,rating,Choice,3,1562845887161,10,dead,PP,14,63
-1562845890,699075f5db46451b30e13e1e92f79fbc,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1562845889877,10,dead,PP,14,NULL
-#
-# Results on Tuesday February 18 2020 11:01:30 UTC.
-# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
-# Design number was non-random = 1
-#
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,PennController,5,_Trial_,Start,1583330639808,209,7,Ian McEwan,yes,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,Scale,rating,Choice,1,1583330640862,209,7,Ian McEwan,yes,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,PennController,5,_Trial_,End,1583330642506,209,7,Ian McEwan,yes,NULL
 # Columns below this comment are as follows:
 # 1. Time results were received.
 # 2. MD5 hash of participant's IP address.
@@ -83,20 +73,17 @@
 # 5. Element number.
 # 6. Type.
 # 7. Group.
-# 8. PennElementType.
-# 9. PennElementName.
-# 10. Parameter.
-# 11. Value.
-# 12. EventTime.
-# 13. Comments.
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1582023653217,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1582023654236,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1582023654240,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,language,d,1582023658381,text input
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,age,d,1582023658381,text input
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,sex,male,1582023658381,radio button
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,hand,left,1582023658381,radio button
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1582023658381,NULL
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,0,practice,NULL,1,Pierre Gatineau is a Canadian rapper. He lives in Montréal.,552,False,Pierre Gatineau is a Canadian rapper. He lives in Montréal.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,1,He,282,False,He is well-known in French speaking countries%2C supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,2,is well-known,199,False,He is well-known in French speaking countries%2C supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,3,in French speaking,231,False,He is well-known in French speaking countries%2C supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,4,countries%2C,192,False,He is well-known in French speaking countries%2C supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,5,supposedly.,329,False,He is well-known in French speaking countries%2C supposedly.
 # Columns below this comment are as follows:
 # 1. Time results were received.
 # 2. MD5 hash of participant's IP address.
@@ -112,39 +99,488 @@
 # 12. EventTime.
 # 13. item.
 # 14. vital_status.
-# 15. tense.
+# 15. name.
 # 16. list.
 # 17. Comments.
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1582023658383,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Key,bio,Key,32,1582023660312,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Key,bio,Key,32,1582023661792,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Key,bio,Key,32,1582023666104,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Key,critical,Key,32,1582023661792,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Key,critical,Key,32,1582023666104,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,Scale,rating,Choice,4,1582023665658,10,dead,PP,14,199
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1582023667646,10,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1582023667649,2,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,Key,bio,Key,32,1582023669953,2,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,Key,bio,Key,32,1582023672833,2,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,Key,critical,Key,32,1582023672833,2,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,Scale,rating,Choice,1,1582023674292,2,dead,PP,14,71
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1582023676189,2,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1582023676190,6,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,Key,bio,Key,32,1582023678681,6,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,Key,bio,Key,32,1582023680288,6,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,Key,critical,Key,32,1582023680288,6,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,Scale,rating,Choice,2,1582023681265,6,dead,PP,14,48
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1582023682949,6,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1582023682952,14,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,Key,bio,Key,32,1582023684609,14,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,Key,bio,Key,32,1582023687408,14,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,Key,critical,Key,32,1582023687408,14,dead,PP,14,NULL
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,Scale,rating,Choice,2,1582023688689,14,dead,PP,14,63
-1582023691,6a3f0006281bd622987277f5d005cad2,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1582023690606,14,dead,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,PennController,6,_Trial_,Start,1583330644969,210,7,Pierre Gatineau,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,Scale,rating,Choice,2,1583330645694,210,7,Pierre Gatineau,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,PennController,6,_Trial_,End,1583330647332,210,7,Pierre Gatineau,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,0,practice,NULL,1,Before her death in 2009%2C Chloe Masterson was an American singer.,207,False,Before her death in 2009%2C Chloe Masterson was an American singer.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,1,She,186,False,She is currently  recording a new album%2C apparently
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,2,is currently ,177,False,She is currently  recording a new album%2C apparently
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,3,recording,189,False,She is currently  recording a new album%2C apparently
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,4,a new album%2C,192,False,She is currently  recording a new album%2C apparently
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,5,apparently,200,False,She is currently  recording a new album%2C apparently
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,PennController,7,_Trial_,Start,1583330649104,211,7,Chloe Masterson,yes,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,Scale,rating,Choice,3,1583330649974,211,7,Chloe Masterson,yes,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,PennController,7,_Trial_,End,1583330651707,211,7,Chloe Masterson,yes,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,0,practice,NULL,1,Toni Morrison is an American novelist from Ohio.,192,False,Toni Morrison is an American novelist from Ohio.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,1,She,194,False,She will receive the Nobel Prize in Literature supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,2,will receive,190,False,She will receive the Nobel Prize in Literature supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,3,the Nobel Prize,191,False,She will receive the Nobel Prize in Literature supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,4,in Literature,177,False,She will receive the Nobel Prize in Literature supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,5,supposedly.,193,False,She will receive the Nobel Prize in Literature supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,PennController,8,_Trial_,Start,1583330653537,212,7,Toni Morrison,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,Scale,rating,Choice,4,1583330654568,212,7,Toni Morrison,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,PennController,8,_Trial_,End,1583330656364,212,7,Toni Morrison,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,0,practice,NULL,1,William Shakespeare was an English playwright. He died in 1616.,177,False,William Shakespeare was an English playwright. He died in 1616.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,1,He,193,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,2,lives,209,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,3,in Stratford-upon-Avon%2C,195,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,4,so his biography ,188,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,5,says.,297,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,PennController,9,_Trial_,Start,1583330658226,213,7,William Shakespeare,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,Scale,rating,Choice,5,1583330659653,213,7,William Shakespeare,no,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,PennController,9,_Trial_,End,1583330661143,213,7,William Shakespeare,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,8,0,instructions2,NULL,PennController,3,_Trial_,Start,1583330661146,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,8,0,instructions2,NULL,PennController,3,_Trial_,End,1583330662994,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,0,critical,NULL,1,Richard Nixon was an American politician. He died in New York.,233,False,Richard Nixon was an American politician. He died in New York.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,1,He ,176,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,2,has appeared,176,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,3, in prominent,234,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,4, political debates ,214,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,5,in the past%2C,171,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,6, supposedly.,341,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,PennController,11,_Trial_,Start,1583330665311,2,dead,Richard Nixon,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,Scale,rating,Choice,7,1583330667374,2,dead,Richard Nixon,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,PennController,11,_Trial_,End,1583330669123,2,dead,Richard Nixon,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,0,critical,NULL,1,Eddie Redmayne is a British actor. He lives in London.,504,False,Eddie Redmayne is a British actor. He lives in London.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,1,He ,159,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,2,has appeared,167,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,3, in numerous,179,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,4, blockbusters ,165,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,5,in the past%2C,169,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,6, supposedly.,184,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,PennController,10,_Trial_,Start,1583330671177,1,living,Eddie Redmayne,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,Scale,rating,Choice,6,1583330672878,1,living,Eddie Redmayne,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,PennController,10,_Trial_,End,1583330674719,1,living,Eddie Redmayne,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,0,critical,NULL,1,Brittany Murphy was an American actor. She died in Los Angeles.,319,False,Brittany Murphy was an American actor. She died in Los Angeles.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,1,She ,166,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,2,will appear,185,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,3, in prominent,192,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,4, teen dramas ,168,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,5,in the future%2C,175,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,6, supposedly.,344,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,PennController,13,_Trial_,Start,1583330676848,4,dead,Brittany Murphy,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,Scale,rating,Choice,5,1583330678423,4,dead,Brittany Murphy,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,PennController,13,_Trial_,End,1583330680088,4,dead,Brittany Murphy,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,0,critical,NULL,1,Colin Firth is a British actor. He lives in London and Italy.,192,False,Colin Firth is a British actor. He lives in London and Italy.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,1,He ,174,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,2,will appear,196,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,3, in prominent,181,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,4, romantic comedies ,168,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,5,in the future%2C,192,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,6, supposedly.,248,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,PennController,16,_Trial_,Start,1583330682032,7,living,Colin Firth,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,Scale,rating,Choice,4,1583330683566,7,living,Colin Firth,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,PennController,16,_Trial_,End,1583330685137,7,living,Colin Firth,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,0,critical,NULL,1,Shakira is a Colombian singer. She lives in Barcelona.,415,False,Shakira is a Colombian singer. She lives in Barcelona.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,1,She ,193,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,2,will appear,177,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,3, in popular,190,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,4, music videos ,200,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,5,in the future%2C,184,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,6, supposedly.,217,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,PennController,12,_Trial_,Start,1583330687593,3,living,Shakira,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,Scale,rating,Choice,3,1583330689282,3,living,Shakira,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,PennController,12,_Trial_,End,1583330690965,3,living,Shakira,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,0,critical,NULL,1,Queen Mum was a British royal. She died in Windsor Castle.,240,False,Queen Mum was a British royal. She died in Windsor Castle.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,1,She ,175,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,2,has appeared,168,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,3, in prominent,168,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,4, public events ,152,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,5,in the past%2C,144,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,6, supposedly.,147,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,PennController,15,_Trial_,Start,1583330693452,6,dead,Queen Mum,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,Scale,rating,Choice,2,1583330694902,6,dead,Queen Mum,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,PennController,15,_Trial_,End,1583330696427,6,dead,Queen Mum,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,0,critical,NULL,1,Bruce Lee was a Chinese-American actor. He died in Hong Kong.,151,False,Bruce Lee was a Chinese-American actor. He died in Hong Kong.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,1,He ,168,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,2,will appear,175,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,3, in numerous,144,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,4, kung-fu movies ,161,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,5,in the future%2C,344,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,6, supposedly.,368,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,PennController,17,_Trial_,Start,1583330699120,8,dead,Bruce Lee,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,Scale,rating,Choice,1,1583330699806,8,dead,Bruce Lee,SF,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,PennController,17,_Trial_,End,1583330701319,8,dead,Bruce Lee,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,0,critical,NULL,1,Emma Thompson is a British actor. She lives in London.,153,False,Emma Thompson is a British actor. She lives in London.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,1,She ,192,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,2,has appeared,185,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,3, in popular,169,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,4, classic films ,178,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,5,in the past%2C,247,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330706,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,6, supposedly.,213,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,PennController,14,_Trial_,Start,1583330703231,5,living,Emma Thompson,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,Scale,rating,Choice,4,1583330703894,5,living,Emma Thompson,PP,14,NULL
+1583330706,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,PennController,14,_Trial_,End,1583330705410,5,living,Emma Thompson,PP,14,NULL
 #
-# Results on Tuesday February 25 2020 13:09:45 UTC.
+# Results on Wednesday March 04 2020 14:06:32 UTC.
 # USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
-# Design number was non-random = 0
+# Design number was non-random = 12
 #
 # Columns below this comment are as follows:
 # 1. Time results were received.
@@ -160,11 +596,605 @@
 # 11. Value.
 # 12. EventTime.
 # 13. Comments.
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1582636180457,NULL
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1582636181703,NULL
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1582636181710,NULL
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,name,dpalleschi,1582636185227,text input
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,alter,3,1582636185227,text input
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,sex,male,1582636185227,radio button
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,Html,info,hand,left,1582636185227,radio button
-1582636185,6a3f0006281bd622987277f5d005cad2,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1582636185227,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,Start,1583330715306,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,End,1583330716423,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,PennController,1,_Trial_,Start,1583330716429,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,TextInput,px,Final,d987,1583330724946,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,TextInput,px,First,,1583330717542,9
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,1,0,demographics,NULL,PennController,1,_Trial_,End,1583330724947,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,2,0,instructions1,NULL,PennController,2,_Trial_,Start,1583330724950,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,2,0,instructions1,NULL,PennController,2,_Trial_,End,1583330726119,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,0,practice,NULL,1,Ian McEwan is a British novelist. He had been married twice.,658,False,Ian McEwan is a British novelist. He had been married twice.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,1,Many of his ,222,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,2,novels,279,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,3,have been adapted,152,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,4,into films%2C ,153,False,Many of his  novels have been adapted into films%2C  according to news reports.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,3,1,practice,NULL,5,according to news reports.,312,False,Many of his  novels have been adapted into films%2C  according to news reports.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,PennController,5,_Trial_,Start,1583330728849,209,7,Ian McEwan,yes,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,Scale,rating,Choice,3,1583330730274,209,7,Ian McEwan,yes,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,3,2,practice,NULL,PennController,5,_Trial_,End,1583330731896,209,7,Ian McEwan,yes,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,0,practice,NULL,1,Pierre Gatineau is a Canadian rapper. He lives in Montréal.,328,False,Pierre Gatineau is a Canadian rapper. He lives in Montréal.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,1,He,169,False,He is well-known in French speaking countries%2C supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,2,is well-known,151,False,He is well-known in French speaking countries%2C supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,3,in French speaking,209,False,He is well-known in French speaking countries%2C supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,4,countries%2C,241,False,He is well-known in French speaking countries%2C supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,4,1,practice,NULL,5,supposedly.,337,False,He is well-known in French speaking countries%2C supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,PennController,6,_Trial_,Start,1583330733859,210,7,Pierre Gatineau,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,Scale,rating,Choice,5,1583330734734,210,7,Pierre Gatineau,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,4,2,practice,NULL,PennController,6,_Trial_,End,1583330736406,210,7,Pierre Gatineau,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,0,practice,NULL,1,Before her death in 2009%2C Chloe Masterson was an American singer.,240,False,Before her death in 2009%2C Chloe Masterson was an American singer.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,1,She,168,False,She is currently  recording a new album%2C apparently
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,2,is currently ,153,False,She is currently  recording a new album%2C apparently
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,3,recording,167,False,She is currently  recording a new album%2C apparently
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,4,a new album%2C,162,False,She is currently  recording a new album%2C apparently
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,5,1,practice,NULL,5,apparently,271,False,She is currently  recording a new album%2C apparently
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,PennController,7,_Trial_,Start,1583330738125,211,7,Chloe Masterson,yes,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,Scale,rating,Choice,4,1583330742039,211,7,Chloe Masterson,yes,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,5,2,practice,NULL,PennController,7,_Trial_,End,1583330743954,211,7,Chloe Masterson,yes,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,0,practice,NULL,1,Toni Morrison is an American novelist from Ohio.,392,False,Toni Morrison is an American novelist from Ohio.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,1,She,344,False,She will receive the Nobel Prize in Literature supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,2,will receive,191,False,She will receive the Nobel Prize in Literature supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,3,the Nobel Prize,161,False,She will receive the Nobel Prize in Literature supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,4,in Literature,200,False,She will receive the Nobel Prize in Literature supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,6,1,practice,NULL,5,supposedly.,176,False,She will receive the Nobel Prize in Literature supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,PennController,8,_Trial_,Start,1583330745945,212,7,Toni Morrison,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,Scale,rating,Choice,4,1583330746769,212,7,Toni Morrison,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,6,2,practice,NULL,PennController,8,_Trial_,End,1583330748279,212,7,Toni Morrison,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,0,practice,NULL,1,William Shakespeare was an English playwright. He died in 1616.,337,False,William Shakespeare was an English playwright. He died in 1616.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,1,He,150,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,2,lives,176,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,3,in Stratford-upon-Avon%2C,184,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,4,so his biography ,176,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,7,1,practice,NULL,5,says.,304,False,He lives in Stratford-upon-Avon%2C so his biography  says.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. list.
+# 17. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,PennController,9,_Trial_,Start,1583330750439,213,7,William Shakespeare,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,Scale,rating,Choice,6,1583330751204,213,7,William Shakespeare,no,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,7,2,practice,NULL,PennController,9,_Trial_,End,1583330752774,213,7,William Shakespeare,no,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,8,0,instructions2,NULL,PennController,3,_Trial_,Start,1583330752776,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,8,0,instructions2,NULL,PennController,3,_Trial_,End,1583330753818,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,0,critical,NULL,1,Eddie Redmayne is a British actor. He lives in London.,359,False,Eddie Redmayne is a British actor. He lives in London.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,1,He ,168,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,2,has appeared,215,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,3, in numerous,168,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,4, blockbusters ,168,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,5,in the past%2C,273,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,9,1,critical,NULL,6, supposedly.,383,False,He  has appeared  in numerous  blockbusters  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,PennController,10,_Trial_,Start,1583330758167,1,living,Eddie Redmayne,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,Scale,rating,Choice,3,1583330758769,1,living,Eddie Redmayne,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,9,2,critical,NULL,PennController,10,_Trial_,End,1583330760252,1,living,Eddie Redmayne,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,0,critical,NULL,1,Emma Thompson is a British actor. She lives in London.,352,False,Emma Thompson is a British actor. She lives in London.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,1,She ,225,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,2,has appeared,167,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,3, in popular,177,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,4, classic films ,191,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,5,in the past%2C,184,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,13,1,critical,NULL,6, supposedly.,369,False,She  has appeared  in popular  classic films  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,PennController,14,_Trial_,Start,1583330762834,5,living,Emma Thompson,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,Scale,rating,Choice,3,1583330763723,5,living,Emma Thompson,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,13,2,critical,NULL,PennController,14,_Trial_,End,1583330765161,5,living,Emma Thompson,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,0,critical,NULL,1,Shakira is a Colombian singer. She lives in Barcelona.,257,False,Shakira is a Colombian singer. She lives in Barcelona.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,1,She ,172,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,2,will appear,189,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,3, in popular,199,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,4, music videos ,208,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,5,in the future%2C,180,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,11,1,critical,NULL,6, supposedly.,341,False,She  will appear  in popular  music videos  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,PennController,12,_Trial_,Start,1583330767892,3,living,Shakira,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,Scale,rating,Choice,6,1583330768610,3,living,Shakira,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,11,2,critical,NULL,PennController,12,_Trial_,End,1583330770206,3,living,Shakira,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,0,critical,NULL,1,Richard Nixon was an American politician. He died in New York.,280,False,Richard Nixon was an American politician. He died in New York.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,1,He ,168,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,2,has appeared,175,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,3, in prominent,192,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,4, political debates ,196,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,5,in the past%2C,188,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,10,1,critical,NULL,6, supposedly.,226,False,He  has appeared  in prominent  political debates  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,PennController,11,_Trial_,Start,1583330772459,2,dead,Richard Nixon,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,Scale,rating,Choice,5,1583330773131,2,dead,Richard Nixon,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,10,2,critical,NULL,PennController,11,_Trial_,End,1583330774564,2,dead,Richard Nixon,PP,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,0,critical,NULL,1,Brittany Murphy was an American actor. She died in Los Angeles.,227,False,Brittany Murphy was an American actor. She died in Los Angeles.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,1,She ,192,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,2,will appear,187,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,3, in prominent,149,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,4, teen dramas ,191,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,5,in the future%2C,176,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,12,1,critical,NULL,6, supposedly.,168,False,She  will appear  in prominent  teen dramas  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,PennController,13,_Trial_,Start,1583330776336,4,dead,Brittany Murphy,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,Scale,rating,Choice,3,1583330776962,4,dead,Brittany Murphy,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,12,2,critical,NULL,PennController,13,_Trial_,End,1583330778521,4,dead,Brittany Murphy,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,0,critical,NULL,1,Colin Firth is a British actor. He lives in London and Italy.,280,False,Colin Firth is a British actor. He lives in London and Italy.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,1,He ,168,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,2,will appear,176,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,3, in prominent,193,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,4, romantic comedies ,159,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,5,in the future%2C,129,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,15,1,critical,NULL,6, supposedly.,215,False,He  will appear  in prominent  romantic comedies  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,PennController,16,_Trial_,Start,1583330780681,7,living,Colin Firth,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,Scale,rating,Choice,3,1583330781874,7,living,Colin Firth,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,15,2,critical,NULL,PennController,16,_Trial_,End,1583330783431,7,living,Colin Firth,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,0,critical,NULL,1,Bruce Lee was a Chinese-American actor. He died in Hong Kong.,320,False,Bruce Lee was a Chinese-American actor. He died in Hong Kong.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,1,He ,153,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,2,will appear,184,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,3, in numerous,175,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,4, kung-fu movies ,192,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,5,in the future%2C,169,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,16,1,critical,NULL,6, supposedly.,208,False,He  will appear  in numerous  kung-fu movies  in the future%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,PennController,17,_Trial_,Start,1583330785473,8,dead,Bruce Lee,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,Scale,rating,Choice,5,1583330786163,8,dead,Bruce Lee,SF,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,16,2,critical,NULL,PennController,17,_Trial_,End,1583330787955,8,dead,Bruce Lee,SF,14,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,0,critical,NULL,1,Queen Mum was a British royal. She died in Windsor Castle.,377,False,Queen Mum was a British royal. She died in Windsor Castle.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,1,She ,176,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,2,has appeared,160,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,3, in prominent,151,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,4, public events ,184,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,5,in the past%2C,145,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+1583330793,6a3f0006281bd622987277f5d005cad2,DashedSentence,14,1,critical,NULL,6, supposedly.,200,False,She  has appeared  in prominent  public events  in the past%2C  supposedly.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. vital_status.
+# 15. name.
+# 16. tense.
+# 17. list.
+# 18. Comments.
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,PennController,15,_Trial_,Start,1583330789937,6,dead,Queen Mum,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,Scale,rating,Choice,5,1583330790827,6,dead,Queen Mum,PP,14,NULL
+1583330793,6a3f0006281bd622987277f5d005cad2,PennController,14,2,critical,NULL,PennController,15,_Trial_,End,1583330792499,6,dead,Queen Mum,PP,14,NULL
+#
+# Results on Wednesday March 04 2020 14:23:25 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1583331805,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,Start,1583331804093,NULL
+1583331805,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,End,1583331805102,NULL
+#
+# Results on Wednesday March 04 2020 14:23:56 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1583331837,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,Start,1583331835477,NULL
+1583331837,6a3f0006281bd622987277f5d005cad2,PennController,0,0,welcome-consent,NULL,PennController,0,_Trial_,End,1583331836707,NULL
